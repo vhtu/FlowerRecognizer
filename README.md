@@ -1,11 +1,11 @@
 ## Result
-![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/all.png)
+![image](https://github.com/vhtu/FlowerRecognizer/blob/master/img/all.png)
 
 <!-- ## Image2
-![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img2.png)
+![image](https://github.com/vhtu/FlowerRecognizer/blob/master/img/img2.png)
 
 ## Image2
-![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img3.png) -->
+![image](https://github.com/vhtu/FlowerRecognizer/blob/master/img/img3.png) -->
 
 
 # Cat vs Dog detector
