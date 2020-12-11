@@ -1,4 +1,15 @@
-# catanddog
+## Result
+![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/all.png)
+
+<!-- ## Image2
+![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img2.png)
+
+## Image2
+![image](https://github.com/vhtu/DetectCatvsDog/blob/master/img/img3.png) -->
+
+
+# Cat vs Dog detector
+- [Lab: Deep Learning Course with Flutter & Python – Build 6 AI Apps](https://www.udemy.com/course/flutter-deeplearning-course/).
 
 A new Flutter project.
 
